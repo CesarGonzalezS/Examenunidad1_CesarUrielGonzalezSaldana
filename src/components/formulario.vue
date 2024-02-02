@@ -13,9 +13,7 @@
 
 
 
-              <li class="breadcrumb-item">
-                <b-link :to="{ name: 'paginacion' }">paginacion</b-link>
-            </li>
+              
           </ol>
       </nav>
 
